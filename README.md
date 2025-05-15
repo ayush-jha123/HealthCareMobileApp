@@ -1,6 +1,3 @@
-Absolutely! Here's the **full README content in one place**—just copy and paste it directly into your `README.md` file on GitHub:
-
----
 
 ```markdown
 # 🩺 Medical Recommendation System
@@ -17,29 +14,6 @@ A comprehensive **AI-powered medical guidance system** combining a **Flask-based
 - **ML Model:** Trained on 8 datasets with 133 diseases and 400+ symptoms
 
 ---
-
-## 📁 Project Structure
-
-```
-
-medical-recommendation-system/
-├── backend-flask/
-│   ├── app.py
-│   ├── svc.pkl
-│   ├── templates/
-│   ├── static/
-│   ├── datasets/
-│   └── requirements.txt
-│
-├── mobile-app-react-native/
-│   ├── App.js
-│   ├── app.json
-│   ├── assets/
-│   └── package.json
-│
-└── README.md
-
-````
 
 ---
 
@@ -150,9 +124,4 @@ This project is licensed under the **MIT License**.
 > Guided by **Dr. Kamal Captain**
 > Department of Electronics Engineering, SVNIT Surat
 
-```
-
----
-
-You can now paste this directly into your `README.md` file in your repository—no formatting required! Let me know if you'd like a downloadable version or need help creating repository visuals like badges or screenshots.
 ```
