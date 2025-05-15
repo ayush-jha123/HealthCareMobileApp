@@ -112,16 +112,3 @@ Ensure your mobile device is on the same network as your backend server.
 * Include wearable device support and voice assistant commands
 * Enable PWA caching for offline support
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-> Developed by **Ayush Kumar Jha**
-> Guided by **Dr. Kamal Captain**
-> Department of Electronics Engineering, SVNIT Surat
-
-```
